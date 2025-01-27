@@ -23,6 +23,6 @@ Hemlock Holm is set to provide a range of novel features in order to tackle comm
 
 ## Additional Project Information
 
-This project is part of a feasibility study on the aforementioned API (i.e Trefle) and is carried out as part of the Undergraduate Research Volunteering (URV) Winter 2024 program at the University of Massachusetts Amherst. 
-This project is currently owned and managed by [@Fardeen0-0](https://github.com/Fardeen0-0) (yours truly) and is open to ideas and collaboration.
+This project is part of a feasibility study on the aforementioned API (i.e. Trefle) and is carried out as part of the Undergraduate Research Volunteering (URV) Winter 2024 program at the University of Massachusetts Amherst. 
+This project is currently owned and managed by [@Fardeen0-0](https://github.com/Fardeen0-0) (yours truly), under the mentorship of Mr. Andre Kenneth 'Chase' Randall, and is open to ideas and collaboration.
 
