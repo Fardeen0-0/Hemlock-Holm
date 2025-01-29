@@ -21,6 +21,12 @@ Hemlock Holm is set to provide a range of novel features in order to tackle comm
 - If the user requires a summarized answer to a broad topic or an explanation to a complex question, he/she would have the option to pose the question to the in-built chatbot (which uses OpenAI API) which will return a clear appropriate response to the query. On command, it will even clarify all botanical jargon to ensure clarity and user understandability.
 - Finally, taking into account the importance of raising awareness of the environment and generating interest in plant life, the app would be gamified to enhance the experience by including achievements and badges every time a new plant is scanned. This feature may be developed further in the future to introduce point scoring mechanisms which could be renewed to win gifts from app sponsors. However this would be added only on an ad hoc basis.
 
+## 🎞️ Feature Demo
+
+Demonstration of the initial stages of Groot - The Plant Bot, an LLM chatbot designed to assist with plant related queries. Built using Google Gemini API. (Note: The chatbot is still in developmental stages and will soon be given an attractive UI)
+
+https://github.com/user-attachments/assets/3a3e939f-1eb7-40ca-87f2-18e948a1848b
+
 ## Additional Project Information
 
 This project is part of a feasibility study on the aforementioned API (i.e. Trefle) and is carried out as part of the Undergraduate Research Volunteering (URV) Winter 2024 program at the University of Massachusetts Amherst. 
